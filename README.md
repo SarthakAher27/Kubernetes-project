@@ -35,7 +35,9 @@ Compare the operational differences between a managed and self-managed Kubernete
 ## How I Built It:
 
 -Infrastructure: AWS services such as VPC, IAM, and EKS are used to create the environment.
+
 -Tools: AWS CLI, kubectl, and Docker are configured to ensure effortless cluster management and application deployment.
+
 -Networking: Subnets, internet gateways, and security groups are set up to ensure secure communication.
 
 -YAML Manifests: Custom Kubernetes manifests were authored to deploy applications to the cluster.

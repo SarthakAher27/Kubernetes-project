@@ -38,7 +38,7 @@ Compare the operational differences between a managed and self-managed Kubernete
 
 -Tools: AWS CLI, kubectl, and Docker are configured to ensure effortless cluster management and application deployment.
 
-Linked In-
+
 
 -Networking: Subnets, internet gateways, and security groups are set up to ensure secure communication.
 
